@@ -1,4 +1,4 @@
-package guru.cloudconsulting.bootstrap;
+package guru.cloudconsulting;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
